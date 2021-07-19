@@ -17,3 +17,5 @@ This project found that it is effective, and has fairly high performance.
 This project found that not much data is needed, just 100 images to get decent performance, and that pre-training then finetuning works just fine, which is good as it reduces the amount of time needed.
 
 The full document analyzing this can be found [here](https://docs.google.com/document/d/1hs6zRE0S7NhGgesi-6oHmKgMUE9TFvFd-o7zF6TX9ho/edit?usp=sharing).
+
+The data can be found [here](https://crisisnlp.qcri.org/) under resource number 9.
